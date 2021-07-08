@@ -1,0 +1,11 @@
+{
+  "name": "toy-graphql-project",
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "graphql": "^15.5.0",
+    "typescript": "^4.2.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
